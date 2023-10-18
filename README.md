@@ -20,14 +20,24 @@ Make sure you have the following installed:
 
 - **Search:** Retrieve information about anime titles.
 - **Information Display:** View detailed information about a specific anime, including its synopsis.
-- **ASCII Art:** Experience visual representations of anime through ASCII art.
+- **ASCII Art:** Experience visual representations of anime coverf through ASCII art.
 - **Recommendations:** Get recommendations for TV shows.
 
 ## Screenshots
 
-- Include screenshots of the script in action, such as displaying anime information, ASCII art, and recommendations.
+### Anime Information
+
+![Anime Information](screenshots/anime_info.png)
+
+### ASCII Art
+
+![ASCII Art](screenshots/ascii_art.png)
+
+### Recommendations
+
+![Recommendations](screenshots/recommendations.png)
 
 ## Example
 
 ```bash
-$ python script.py
+$ python project.py
