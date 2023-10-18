@@ -1,0 +1,7 @@
+## To run the file you need the following libraries:
+
+jikanpy-v4
+inquirerpy
+tabulate
+ascii-magic
+Pillow
