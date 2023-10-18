@@ -1,4 +1,6 @@
 # Anime Info Script
+#### Video Demo:  <https://www.youtube.com/watch?v=jvBIkT-2Q7I>
+#### Description:
 
 This Python script allows users to search for anime information using the Jikan API. It provides details about anime, including titles, years, episodes, status, scores, and more. Additionally, the script offers features like displaying ASCII art, showing recommendations, and presenting anime synopses.
 
